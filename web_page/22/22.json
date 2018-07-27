@@ -1,0 +1,56 @@
+{
+  "designerVersion" : "1.8.0",
+  "id" : "22",
+  "name" : "22",
+  "lastUpdate" : 1532339201628,
+  "rows" : [ [ {
+    "type" : "component",
+    "dimension" : {
+      "xs" : 12,
+      "sm" : 12,
+      "md" : 12,
+      "lg" : 12
+    },
+    "propertyValues" : {
+      "cssClasses" : {
+        "type" : "constant",
+        "value" : ""
+      },
+      "hidden" : {
+        "type" : "constant",
+        "value" : false
+      },
+      "allowHTML" : {
+        "type" : "constant",
+        "value" : true
+      },
+      "text" : {
+        "type" : "interpolation",
+        "value" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,<br/>consectetur,<br/>adipisci velit..."
+      },
+      "alignment" : {
+        "type" : "constant",
+        "value" : "left"
+      }
+    },
+    "reference" : "eaa5f73c-8377-47ca-97cf-aba0225c6ec5",
+    "id" : "pbText"
+  } ] ],
+  "assets" : [ {
+    "id" : "cf64e1a5-a641-4c64-9cd9-1012374aff66",
+    "name" : "localization.json",
+    "type" : "json",
+    "order" : 0,
+    "external" : false
+  }, {
+    "id" : "790bf206-1fc1-4194-a9a5-35f2db221d7c",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 0,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { },
+  "uuid" : "e24258fd-288b-40a1-97ab-c60f30c02810",
+  "type" : "page"
+}
