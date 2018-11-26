@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:decision="http://www.bonitasoft.org/ns/studio/process/decision" xmlns:expression="http://www.bonitasoft.org/ns/studio/expression" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:process="http://www.bonitasoft.org/ns/studio/process" xsi:schemaLocation="http://www.bonitasoft.org/ns/studio/process/decision http://www.bonitasoft.org/ns/studio/process#//decision">
-  <process:MainProcess xmi:id="_omQ-AHkWEeih2dfeETqy5w" name="ProcessListDiagramme" author="bonitasoft" bonitaVersion="7.8.0" bonitaModelVersion="7.8.0-001" configId="ACED000574002450726F636573734C6973744469616772616D6D65372E382E302D303031372E382E307370">
-    <elements xmi:type="process:Pool" xmi:id="_omQ-AXkWEeih2dfeETqy5w" name="Pool">
+  <process:MainProcess xmi:id="_omQ-AHkWEeih2dfeETqy5w" name="ProcessListDiagramme" author="bonitasoft" bonitaVersion="7.8.0" bonitaModelVersion="7.8.0-002" configId="ACED000574002450726F636573734C6973744469616772616D6D65372E382E302D303032372E382E307370">
+    <elements xmi:type="process:Pool" xmi:id="_omQ-AXkWEeih2dfeETqy5w" name="Pool" version="1.1">
       <elements xmi:type="process:Lane" xmi:id="_omQ-AnkWEeih2dfeETqy5w" name="Employé (lane)" actor="_omQ-K3kWEeih2dfeETqy5w">
         <elements xmi:type="process:StartEvent" xmi:id="_omQ-A3kWEeih2dfeETqy5w" name="Démarrer1" outgoing="_omQ-KHkWEeih2dfeETqy5w">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_omQ-BXkWEeih2dfeETqy5w" name="" content="" returnTypeFixed="true"/>
